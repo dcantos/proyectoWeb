@@ -34,7 +34,7 @@
 					
 
 					
-					<input placeholder="Minuto Suceso" type="text" class="liveblog-form-minuto" name="liveblog-form-minuto" value="{{mienvento}}">
+					
 					
 					
 					
