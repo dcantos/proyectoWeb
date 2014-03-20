@@ -42,8 +42,7 @@
 			</legend>
 				
 				<div>
-						<textarea placeholder="<?php esc_attr_e( "Remember: keep it short! To insert an image, drag and drop it here.", 'liveblog' ); ?>" class="liveblog-form-entry" name="liveblog-form-entry" cols="50" rows="5">{{content}}</textarea>
-					<div class="liveblog-submit-wrapper">
+						
 						
 						<span class="liveblog-submit-spinner"></span>
 						<input type="button" class="liveblog-form-entry-submit button" value="{{submit_label}}" />
